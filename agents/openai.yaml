@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Learner MATH"
+  short_description: "整理课堂与晚自习笔记、例题及图片PDF，生成可审阅的Obsidian学习草稿"
+  default_prompt: "Use $obsidian-learner-math 整理高等数学课堂笔记、晚自习问题、例题或图片/PDF，并在确认归档前保留草稿。"
